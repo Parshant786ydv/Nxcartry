@@ -52,7 +52,7 @@ with sync_playwright() as p:
         except Exception as e:
             print(f"[{i}] '{text}' could NOT be tested. Error: {e}")
     
-    # Screenshot at the end
+    # Screenshot at the endd
     page.screenshot(path="nxcar_clickable_test.png", full_page=True)
     print("Screenshot saved as nxcar_clickable_test.png")
     
