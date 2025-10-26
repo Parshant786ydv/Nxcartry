@@ -18,5 +18,5 @@ env/
 # macOS system files
 .DS_Store
 
-# Jupyter Notebook checkpoints
+# Jupyter Notebook checkpointss
 .ipynb_checkpoints/
