@@ -1,0 +1,32 @@
+Scope,Element,Status
+NAV,Buy Car,Clickable & Working
+NAV,Sell Car,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+NAV,Luxury Cars,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+NAV,Used Car Loan,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+NAV,Car Services,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+NAV,My Cars,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+MAIN,a_1,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+MAIN,Buy Car,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+MAIN,button_1,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+MAIN,Login,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+NAV PAGE,Buy Car,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+NAV PAGE,Sell Car,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+NAV PAGE,Luxury Cars,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+NAV PAGE,Used Car Loan,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+NAV PAGE,Car Services,"Error: Locator.click: Timeout 3000ms exceeded.
+"
+NAV PAGE,My Cars,"Error: Locator.click: Timeout 3000ms exceeded.
+"

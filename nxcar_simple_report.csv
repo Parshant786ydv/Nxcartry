@@ -1,0 +1,139 @@
+Scope,Element,Status
+HOME,Buy Car,Working (navigated)
+HOME,"2018 Hyundai Elantra SX (O) 1.5 AT
+
+79,000 Km | Petrol | Automatic
+
+₹9.25 L
+EMI at ₹18,730",Not found/visible
+HOME,"2014 Maruti Suzuki Swift VDi[2011-2014]
+
+84,000 Km | Diesel | Manual
+
+₹4.50 L
+EMI at ₹10,765",Not found/visible
+HOME,"2015 Honda Jazz V
+
+70,000 Km | Petrol | Automatic
+
+₹4.45 L
+EMI at ₹9,010",Not found/visible
+HOME,"2020 Hyundai Elite i20 Sportz Plus 1.2[2019-2020]
+
+37,000 Km | Petrol | Manual
+
+₹5.75 L
+EMI at ₹11,643",Not found/visible
+HOME,"2017 Volkswagen Polo GT TSI[2016-2019]
+
+75,000 Km | Petrol | Automatic
+
+₹4 L
+EMI at ₹8,099",Not found/visible
+HOME,"2017 Mahindra Bolero Power Plus SLE[2011-2020]
+
+1,29,000 Km | Diesel | Manual
+
+₹6.25 L
+EMI at ₹12,655",Not found/visible
+HOME,"2017 Maruti Suzuki Ciaz Alpha 1.4 AT[2017-2018]
+
+20,000 Km | Petrol | Automatic
+
+₹6.90 L
+EMI at ₹13,971",Not found/visible
+HOME,"RC Check
+
+Apply Now",Not found/visible
+HOME,"Challan Check
+
+Check Now",Not found/visible
+HOME,"2012 Maruti Suzuki Alto LXI
+
+57,000 Km | Petrol + Cng | Manual
+
+₹1.40 L
+EMI at ₹5,961",Not found/visible
+HOME,"2014 Maruti Suzuki Ertiga VDi[2012-2015]
+
+75,000 Km | Diesel | Manual
+
+₹5.95 L
+EMI at ₹14,234",Not found/visible
+HOME,"2019 Hyundai i20 Asta (O) 1.2 MT
+
+22,000 Km | Petrol | Manual
+
+₹5.25 L
+EMI at ₹10,630",Not found/visible
+HOME,"2014 Honda City VX Petrol MT
+
+70,000 Km | Petrol | Manual
+
+₹5.75 L
+EMI at ₹13,755",Not found/visible
+HOME,"2023 Maruti Suzuki Brezza ZXi Plus
+
+37,000 Km | Petrol | Manual
+
+₹10.95 L
+EMI at ₹22,172",Not found/visible
+HOME,"2015 Hyundai Verna SX 1.6 CRDi[2017-2020]
+
+75,000 Km | Diesel | Automatic
+
+₹6.50 L
+EMI at ₹13,161",Not found/visible
+HOME,"2011 Hyundai i10 Sportz 1.2[2007-2010]
+
+50,609 Km | Petrol | Manual
+
+₹2.25 L
+EMI at ₹18,039",Not found/visible
+HOME,"Got any question ?
+
+Speak to our team today",Not found/visible
+HOME,Download Nxcar,Not found/visible
+HOME,About Us,Not found/visible
+HOME,Calculator,Not found/visible
+HOME,Blogs,Not found/visible
+HOME,Contact Us,Not found/visible
+HOME,FAQs,Not found/visible
+HOME,Partners,Not found/visible
+HOME,Privacy Policy,Not found/visible
+HOME,Terms Of Use,Not found/visible
+HOME,Grievance Policy,Not found/visible
+HOME,Service Partners,Not found/visible
+HOME,Login,Skipped
+HOME,"KUBER CARS
+Pune",Skipped
+HOME,"SELECT SMART CARS
+Hyderabad",Skipped
+HOME,"GOLDEN MOTORS
+Hyderabad",Skipped
+HOME,Download the App,Not found/visible
+PAGE:Buy Car,Buy Car,"Failed to open: ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+"

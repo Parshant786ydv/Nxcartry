@@ -1,0 +1,57 @@
+#,Element Text,Status,Clickable
+1,Login,Login/Signup skipped,True
+2,"City Cars
+Bangalore",Dealer/Car tested once - Not found on re-query,False
+3,"KUBER CARS
+Pune",Not found on re-query,False
+4,"Century Carz
+Delhi",Dealer/Car skipped,True
+5,"Carobaari
+Delhi",Clicked successfully,True
+6,"Car Katta
+Pune",Not found on re-query,False
+7,"Hind Motors
+Mumbai",Dealer/Car skipped,True
+8,"Shree Ganesh Motors
+Mumbai",Dealer/Car skipped,True
+9,"New Apna Car Bazar
+Gurgaon",Dealer/Car skipped,True
+10,"Satguru Motors
+Delhi",Dealer/Car skipped,True
+11,"Truvic Cars
+Hyderabad",Dealer/Car skipped,True
+12,"Rajesh Pre-Owned Cars
+Hyderabad",Dealer/Car skipped,True
+13,"GOLDEN MOTORS
+Hyderabad",Not found on re-query,False
+14,Download the App,Clicked successfully,True
+15,Download Nxcar,Clicked successfully,True
+16,Buy Car,Clicked successfully,True
+17,Sell Car,Clicked successfully,True
+18,Luxury Cars,Dealer/Car skipped,True
+19,Used Car Loan,Clicked successfully,True
+20,Car Services,Clicked successfully,True
+21,My Cars,Dealer/Car skipped,True
+22,View More Cars,Dealer/Car skipped,True
+23,"RC Check
+
+Apply Now",Not found on re-query,False
+24,"Car Insurance
+
+Apply Now",Not found on re-query,False
+25,"Car Inspection
+
+Apply Now",Not found on re-query,False
+26,About Us,Clicked successfully,True
+27,Calculator,Clicked successfully,True
+28,Blogs,Clicked successfully,True
+29,Contact Us,Clicked successfully,True
+30,FAQs,Clicked successfully,True
+31,Buy Cars,Dealer/Car skipped,True
+32,Sell Cars,Dealer/Car skipped,True
+33,Partners,Clicked successfully,True
+34,Used Car Dealers,Clicked successfully,True
+35,Privacy Policy,Clicked successfully,True
+36,Terms Of Use,Clicked successfully,True
+37,Grievance Policy,Clicked successfully,True
+38,Service Partners,Clicked successfully,True

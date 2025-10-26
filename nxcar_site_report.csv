@@ -1,0 +1,444 @@
+Scope,Element,Status
+NAV,Buy Car,Working (navigated)
+NAV,Sell Car,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"
+NAV,Luxury Cars,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"
+NAV,Used Car Loan,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"
+NAV,Car Services,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"
+NAV,My Cars,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"
+NAV,View More Cars,Not found/visible
+NAV,"2018 Maruti Suzuki Ciaz Alpha 1.5 AT
+
+65,000 Km | Petrol | Automatic
+
+₹5.30 L
+EMI at ₹10,732",Not found/visible
+NAV,"2018 Hyundai Elantra SX (O) 1.5 AT
+
+79,000 Km | Petrol | Automatic
+
+₹9.25 L
+EMI at ₹18,730",Not found/visible
+NAV,"2014 Maruti Suzuki Swift VDi[2011-2014]
+
+84,000 Km | Diesel | Manual
+
+₹4.50 L
+EMI at ₹10,765",Not found/visible
+NAV,"2015 Honda Jazz V
+
+70,000 Km | Petrol | Automatic
+
+₹4.45 L
+EMI at ₹9,010",Not found/visible
+NAV,"2020 Hyundai Elite i20 Sportz Plus 1.2[2019-2020]
+
+37,000 Km | Petrol | Manual
+
+₹5.75 L
+EMI at ₹11,643",Not found/visible
+NAV,"2017 Mahindra Bolero Power Plus SLE[2011-2020]
+
+1,29,000 Km | Diesel | Manual
+
+₹6.25 L
+EMI at ₹12,655",Not found/visible
+NAV,"2017 Maruti Suzuki Ciaz Alpha 1.4 AT[2017-2018]
+
+20,000 Km | Petrol | Automatic
+
+₹6.90 L
+EMI at ₹13,971",Not found/visible
+NAV,"RC Check
+
+Apply Now",Not found/visible
+NAV,"Challan Check
+
+Check Now",Not found/visible
+NAV,"Car Insurance
+
+Apply Now",Not found/visible
+NAV,"Car Inspection
+
+Apply Now",Not found/visible
+NAV,"2012 Maruti Suzuki Alto LXI
+
+57,000 Km | Petrol + Cng | Manual
+
+₹1.40 L
+EMI at ₹5,961",Not found/visible
+NAV,"2014 Maruti Suzuki Ertiga VDi[2012-2015]
+
+75,000 Km | Diesel | Manual
+
+₹5.95 L
+EMI at ₹14,234",Not found/visible
+NAV,"2019 Hyundai i20 Asta (O) 1.2 MT
+
+22,000 Km | Petrol | Manual
+
+₹5.25 L
+EMI at ₹10,630",Not found/visible
+NAV,"2014 Honda City VX Petrol MT
+
+70,000 Km | Petrol | Manual
+
+₹5.75 L
+EMI at ₹13,755",Not found/visible
+NAV,"2023 Maruti Suzuki Brezza ZXi Plus
+
+37,000 Km | Petrol | Manual
+
+₹10.95 L
+EMI at ₹22,172",Not found/visible
+NAV,"2015 Hyundai Verna SX 1.6 CRDi[2017-2020]
+
+75,000 Km | Diesel | Automatic
+
+₹6.50 L
+EMI at ₹13,161",Not found/visible
+NAV,"2011 Hyundai i10 Sportz 1.2[2007-2010]
+
+50,609 Km | Petrol | Manual
+
+₹2.25 L
+EMI at ₹18,039",Not found/visible
+NAV,"Got any question ?
+
+Speak to our team today",Not found/visible
+NAV,Download Nxcar,Not found/visible
+NAV,About Us,Not found/visible
+NAV,Calculator,Not found/visible
+NAV,Blogs,Not found/visible
+NAV,Contact Us,Not found/visible
+NAV,FAQs,Not found/visible
+NAV,Buy Cars,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"
+NAV,Sell Cars,Not found/visible
+NAV,Partners,Not found/visible
+NAV,Used Car Dealers,Not found/visible
+NAV,Privacy Policy,Not found/visible
+NAV,Terms Of Use,Not found/visible
+NAV,Grievance Policy,Not found/visible
+NAV,Service Partners,Not found/visible
+NAV,"Carobaari
+Delhi",Skipped
+NAV,"Satguru Motors
+Delhi",Skipped
+NAV,"City Cars
+Bangalore",Skipped
+NAV,"KUBER CARS
+Pune",Skipped
+NAV,"Century Carz
+Delhi",Skipped
+NAV,"Car Katta
+Pune",Skipped
+NAV,"Wasans Car Galaxy
+Mumbai",Skipped
+NAV,"Hind Motors
+Mumbai",Skipped
+NAV,"Shree Ganesh Motors
+Mumbai",Skipped
+NAV,"New Apna Car Bazar
+Gurgaon",Not found/visible
+NAV,"Truvic Cars
+Hyderabad",Skipped
+NAV,"SELECT SMART CARS
+Hyderabad",Skipped
+NAV,"Rajesh Pre-Owned Cars
+Hyderabad",Skipped
+NAV,"GOLDEN MOTORS
+Hyderabad",Skipped
+NAV,Download the App,Not found/visible
+FOOTER,Buy Car,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"
+FOOTER,Sell Car,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"
+FOOTER,Luxury Cars,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"
+FOOTER,Used Car Loan,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"
+FOOTER,Car Services,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"
+FOOTER,My Cars,"Not Working (ElementHandle.click: Timeout 3000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden=""true"" class=""MuiBackdrop-root MuiModal-backdrop css-919eu4""></div> from <div role=""presentation"" class=""MuiModal-root css-8ndowl"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+)"

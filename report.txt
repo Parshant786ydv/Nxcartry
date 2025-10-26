@@ -1,0 +1,562 @@
+✅ Working Buy Car
+✅ Working Sell Car
+✅ Working Luxury Cars
+❌ Failed (Locator.click: Error: strict mode violation: get_by_text("Used Car Loan", exact=True) resolved to 2 elements:
+    1) <div class="_link_6uxq0_90 false">Used Car Loan</div> aka get_by_role("navigation").get_by_role("link", name="Used Car Loan")
+    2) <p class="_link_9exzm_45">Used Car Loan</p> aka get_by_role("contentinfo").get_by_role("link", name="Used Car Loan")
+
+Call log:
+  - waiting for get_by_text("Used Car Loan", exact=True)
+) Used Car Loan
+❌ Failed (Locator.click: Error: strict mode violation: get_by_text("Car Services", exact=True) resolved to 2 elements:
+    1) <div class="_link_6uxq0_90 false">Car Services</div> aka get_by_role("navigation").get_by_role("link", name="Car Services")
+    2) <p class="_link_9exzm_45">Car Services</p> aka get_by_role("contentinfo").get_by_role("link", name="Car Services")
+
+Call log:
+  - waiting for get_by_text("Car Services", exact=True)
+) Car Services
+✅ Working My Cars
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("About us", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">About us</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) About us
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("Calculator", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">Calculator</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Calculator
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("Blogs", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">Blogs</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Blogs
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("Contact us", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">Contact us</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Contact us
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("FAQs", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">FAQs</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) FAQs
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("Buy Cars", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">Buy Cars</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Buy Cars
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("Sell Cars", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">Sell Cars</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Sell Cars
+❌ Failed (Locator.click: Error: strict mode violation: get_by_text("Used Car Loan", exact=True) resolved to 2 elements:
+    1) <div class="_link_6uxq0_90 false">Used Car Loan</div> aka get_by_role("navigation").get_by_role("link", name="Used Car Loan")
+    2) <p class="_link_9exzm_45">Used Car Loan</p> aka get_by_role("contentinfo").get_by_role("link", name="Used Car Loan")
+
+Call log:
+  - waiting for get_by_text("Used Car Loan", exact=True)
+) Used Car Loan
+❌ Failed (Locator.click: Error: strict mode violation: get_by_text("Car Services", exact=True) resolved to 2 elements:
+    1) <div class="_link_6uxq0_90 false">Car Services</div> aka get_by_role("navigation").get_by_role("link", name="Car Services")
+    2) <p class="_link_9exzm_45">Car Services</p> aka get_by_role("contentinfo").get_by_role("link", name="Car Services")
+
+Call log:
+  - waiting for get_by_text("Car Services", exact=True)
+) Car Services
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("Partners", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">Partners</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="_button_type_1_k03k2_108">…</div> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="_button_type_1_k03k2_108">…</div> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="_button_type_1_k03k2_108">…</div> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Partners
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("Used Car Dealers", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">Used Car Dealers</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM385 231c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-71-71V376c0 13.3-10.7 24-24 24s-24-10.7-24-24V193.9l-71 71c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9L239 119c9.4-9.4 24.6-9.4 33.9 0L385 231z"></path> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM385 231c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-71-71V376c0 13.3-10.7 24-24 24s-24-10.7-24-24V193.9l-71 71c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9L239 119c9.4-9.4 24.6-9.4 33.9 0L385 231z"></path> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM385 231c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-71-71V376c0 13.3-10.7 24-24 24s-24-10.7-24-24V193.9l-71 71c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9L239 119c9.4-9.4 24.6-9.4 33.9 0L385 231z"></path> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Used Car Dealers
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("Privacy Policy", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">Privacy Policy</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Privacy Policy
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("Terms Of Use", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">Terms Of Use</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Terms Of Use
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("Grievance Policy", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">Grievance Policy</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Grievance Policy
+❌ Failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for get_by_text("Service Partners", exact=True)
+    - locator resolved to <p class="_link_9exzm_45">Service Partners</p>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <img fetchpriority="high" alt="explore-sell-with-nxcar" src="/images/home/hero/sell_car.webp" title="sell-your-car-with-nxcar-with-AI-price-model"/> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <img fetchpriority="high" alt="explore-sell-with-nxcar" src="/images/home/hero/sell_car.webp" title="sell-your-car-with-nxcar-with-AI-price-model"/> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <img fetchpriority="high" alt="explore-sell-with-nxcar" src="/images/home/hero/sell_car.webp" title="sell-your-car-with-nxcar-with-AI-price-model"/> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Service Partners
+✅ Body clickable Login
+✅ Body clickable RC Check
+
+Apply Now
+✅ Body clickable Challan Check
+
+Check Now
+✅ Body clickable Car Insurance
+
+Apply Now
+✅ Body clickable Car Inspection
+
+Apply Now
+✅ Body clickable Download the App
+✅ Body clickable Got any question ?
+
+Speak to our team today
+❌ Body click failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("a, button").nth(17)
+    - locator resolved to <a target="_blank" aria-label="download-nxcar-app-here-ios-version-apple" href="https://apps.apple.com/us/app/nxcar/id6739413869">…</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Download Nxcar
+❌ Body click failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("a, button").nth(18)
+    - locator resolved to <button class="_ios_app_9exzm_88">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Download Nxcar
+❌ Body click failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("a, button").nth(19)
+    - locator resolved to <a target="_blank" aria-label="download-nxcar-app-here-ios-version-apple" href="https://play.google.com/store/apps/details?id=com.listing.nxcar">…</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Download Nxcar
+❌ Body click failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("a, button").nth(20)
+    - locator resolved to <button class="_ios_app_9exzm_88">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Download Nxcar
+❌ Body click failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("a, button").nth(21)
+    - locator resolved to <a class="" href="/about#top">…</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) About Us
+❌ Body click failed (Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("a, button").nth(24)
+    - locator resolved to <a class="" href="/contact-us#top">…</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    9 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <section class="_box_k03k2_14 _equalBox_k03k2_43">…</section> from <div class="_container_17vqq_1">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+) Contact Us
